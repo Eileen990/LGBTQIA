@@ -1,0 +1,16 @@
+body{
+	background-color: #fffeaf;
+	font-family: Poppins,sans-serif;
+}
+
+h1,h2{
+	background-color: #D2C2F4;
+}
+
+.lbande,.gbande,.bbande,.tbande,.qbande,
+.ibande,.abande,.bande{
+	width: 100%;
+}
+p{
+	margin-left: 40px;
+}

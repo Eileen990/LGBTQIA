@@ -1,0 +1,88 @@
+body{
+	background-color: #fffeaf;
+	font-family: Poppins,sans-serif;
+
+}
+
+.lsex,.gsex,.bsex,.tsex,.qsex,.isex,.asex,.sex{
+	max-width : 200px;
+	height : auto;
+	margin-left: 100px;
+
+}
+.lgbtqia{
+	width:100%;
+	height : 150px;
+}
+
+h1,h2{
+	background-color: #D2C2F4;
+	text-align: center;
+}
+
+.box {
+  display: flex;
+  margin-top:50px;
+
+}
+.box p{
+	margin-top:50px;
+	margin-left:20px;
+	font-size: large;
+}
+
+h3{
+	background-color: #D2C2F4;
+	text-align: center;
+	font-size: x-large;
+
+}
+
+h4{
+	text-align: center;
+	font-size: x-large;
+	background-color: #D2C2F4;
+}
+
+p{
+	font-size: large;
+	margin-left: 40px;
+}
+
+.tiktok,.insta,.linkd,.twitter{
+ -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  	width : 100px;
+	height : 100px;
+	margin-right: 70px;
+	margin-bottom: 80px;
+	margin-top: 50px;
+
+
+}
+.logo{
+	width : 300px;
+	height : 300px;
+	margin-left: 100px;
+}
+
+.qrcode{
+	width : 200px;
+	height : 200px;
+	margin-left: 80px;
+
+}
+.logo,.qrcode{
+	-webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.ibox {
+  display: flex;
+  margin-top:75px;
+}
+.tiktok{
+	margin-left: 300px;
+}
